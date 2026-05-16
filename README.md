@@ -13,6 +13,14 @@
 
 ---
 
+# Breaking news
+
+2026-05-16 — I gave the original get-shit-done-cc for OpenCode a try and it looks solid. (Still think our `/gsd-oc-set-profile` is much better, though.) Going forward, I'm going to slow down on gsd-opencode upgrades and recommend everyone start using the original get-shit-done.
+
+Thanks for all the support, great ideas, and for catching all the bugs along the way.
+
+-- **Roman** (2026-05-16)
+
 # Explanation
 
 Original Get-Shit-Done (GSDv1) started supporting OpenCode about 3 months ago. That was great, but since I started working on this project earlier, I found a lot of roughnesses in the original GSD for OpenCode. So I decided to continue working on this port.
